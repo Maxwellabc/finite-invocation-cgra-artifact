@@ -1,0 +1,1 @@
+The V24 extension adds frozen scheduling comparisons and editable vector diagrams. See the README inside cgra_v24_extension.zip for reproduction commands. The base cgra_artifact_source.zip remains the source of native and mapper evidence.
